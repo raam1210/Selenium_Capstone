@@ -1,0 +1,7 @@
+<suite name="TestSuite">
+    <test name="TestCases">
+        <classes>
+            <class name="tests.TitleValidationTest"/>
+        </classes>
+    </test>
+</suite>
